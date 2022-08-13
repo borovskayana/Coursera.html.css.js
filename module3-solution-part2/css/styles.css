@@ -1,0 +1,42 @@
+div h1 {
+    font-size: xx-large;
+    
+
+  
+
+}
+.box div {
+    box-sizing: border-box;
+    background-color: grey;
+    position: relative;
+    border: 2px solid black;
+    margin-top: 10px;
+    height: 700px;
+  
+ 
+}
+.box h3 {
+
+ 
+    font-size: 2rem;
+  
+  
+}
+
+.box p {
+    padding: 10px;
+
+}
+
+.box a {
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    margin: 3%;
+}
+.box span {
+    bottom: 0;
+    right: 25%;
+    position: absolute;
+    margin: 3%;
+}
